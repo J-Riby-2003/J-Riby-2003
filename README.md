@@ -1,3 +1,5 @@
-Hello World my name is James Riby 
-I study computer science and are soon to be starting to study at Nottingham University 
+Hello World my name is James,
+I study at the University of Nottingham, love hate relationship with programming.
+
+Not much else.
 
